@@ -64,4 +64,36 @@ BOOK In this Specialization
     
     * TIPS FOR EDA --> If you done your analyses ,back again and ask another question,assume you dont know anything about the data.
   * Understand The Output of Data science Experiment 
-   *
+    * It Depends ,those are:
+      * Reports
+       * Reports is the most common output of data science experiment,Report Should consist:
+        * Be clearly written
+        * involve a narrative around the data
+        * Discuss the creation of the analytic dataset
+        * Have concise conclusions
+        * Omit unnecessary details
+        * Reproducible {Well Documented Code}
+      * Presentations
+      * Interactive Web Pages
+      * APPS
+ * Tools For Data Science
+  * Willingness
+  * Hardwork
+  * SmartWork
+  * Problem Solving
+  * Math and stats
+  * STACK OVER FLOW
+  * BOOKS
+  * Visualization product (Tableu) i use tableau
+  * Programming language (R / Python ) I use Both
+  * SQL
+  * Databases
+  * Version control (Github/bitBucket) I use Github ,lol
+  * Additional Tools / packages .
+ * How to Success In data Science ?
+  * The key idea is ,You learned from data such as:
+   * New Knowledge Created
+   * Decision or policies are made based on the outcome of the experiment
+   * Well known the data .
+ * For me that the fundamental things i get :D ,HOPE You enjoy reading this WHOLE Bunch words .
+  
